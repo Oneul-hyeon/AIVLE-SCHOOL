@@ -12,3 +12,5 @@ while now_index < len(password) :
     ans += password[now_index]
     i += 1
     now_index += i
+# 4. 결과 출력
+print(ans)
