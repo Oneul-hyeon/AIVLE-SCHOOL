@@ -2,6 +2,7 @@ import sys
 input = sys.stdin.readline
 
 password = input().rstrip()
+
 # 1. 현재 인덱스 값, i값 설정
 now_index = 0
 i = 0
