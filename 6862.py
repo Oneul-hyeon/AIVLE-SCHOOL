@@ -10,3 +10,4 @@ if array[1] - array[0] > array[n-1] - array[n-2] :
     print(array[n-1] - array[1])
 else :
     print(array[n-2] - array[0])
+    hi
